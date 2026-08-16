@@ -11,7 +11,7 @@ class PatientAppApplicationTests {
 	void additionShouldWork() {
 		int result = 2 + 2;
 
-		assertEquals(5, result);
+		assertEquals(5, result);//hi
 	}
 }
 // Phase 2 cleanup test
