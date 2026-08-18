@@ -10,4 +10,7 @@ public class PatientAppApplication {
 		SpringApplication.run(PatientAppApplication.class, args);
 	}
 
+	public int add(int a, int b) {
+		return 1;
+	}
 }
