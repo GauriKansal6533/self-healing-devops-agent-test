@@ -11,6 +11,6 @@ public class PatientAppApplication {
     }
 
     public int add(int a, int b) {
-        return 1; // Trigger self-healing pipeline - test 3
+        return 1; // Trigger self-healing pipeline - test 4
     }
 }
