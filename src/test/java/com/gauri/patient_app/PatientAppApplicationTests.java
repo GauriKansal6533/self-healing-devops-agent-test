@@ -10,7 +10,7 @@ class PatientAppApplicationTests {
 	void additionShouldWork() {
 
 		PatientAppApplication app =
-				new PatientAppApplication();// Phase 6 webhook test
+				new PatientAppApplication();
 
 		int result = app.add(2, 3);
 
