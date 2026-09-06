@@ -10,7 +10,7 @@ Patch applied → Tests re-verified in Docker → Fix committed & pushed
 
 ## Why this project exists
 
-Most portfolio projects are CRUD apps. This one demonstrates three things together that rarely show up in the same project: **event-driven backend engineering**, **container-based isolation for safe untrusted code execution**, and **applied LLM orchestration** — an AI model doing bounded, independently-verified work inside a larger system, not just answering chat prompts.
+Most portfolio projects are CRUD apps. This one demonstrates three things together that rarely show up in the same project: **event-driven backend engineering**, **container-based isolation for test execution**, and **applied LLM orchestration** — an AI model doing bounded, independently-verified work inside a larger system, not just answering chat prompts.
 
 ## Architecture
 
